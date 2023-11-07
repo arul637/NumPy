@@ -22,4 +22,13 @@ This tutorial is about NumPy, I am glad to be teaching NumPy, which is essential
 
 <br><br><br>
 
+## Techniques to Read My Tutorials
+  - [basic](https://github.com/arul637/NumPy/tree/main/basic) - 2hrs.
+  - [random](https://github.com/arul637/NumPy/tree/main/random) - 2hrs.
+  - [ufunc](https://github.com/arul637/NumPy/tree/main/ufunc) - 2hrs.
+<br>
+**`note`** : *this technique is easy to study, all concepts that I provided within 3 days. if you prefer to study 1hr per day you can study all concepts within 1 week*
+
+<br><br><br>
+
 **I have provided with enough information, for more information visit [NumPy](https://numpy.org/doc) documentation website.**
