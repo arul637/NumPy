@@ -2,7 +2,9 @@
 This tutorial is about NumPy, I am glad to be teaching NumPy, which is essential for the basics of machine learning and data analysis.
 
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
+  
+  ![numpy-seeklogo com-3](https://github.com/arul637/NumPy/assets/95573091/4355f934-490f-48c3-b54e-0d600136f023)
+
 </div>
 
 ## Installation of NumPy
