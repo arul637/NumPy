@@ -1,9 +1,9 @@
 # NumPy
 This tutorial is about NumPy, I am glad to be teaching NumPy, which is essential for the basics of machine learning and data analysis.
 
-<h1 align='center'>
+<div align='center'>
   <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
-</h1>
+</div>
 
 ## Installation of NumPy
 *who using normal python interpreter, they wont have NumPy package, so we need to explicitly install the numpy*
